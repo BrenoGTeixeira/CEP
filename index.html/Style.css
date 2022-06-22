@@ -1,0 +1,18 @@
+*{
+    margin: 6;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+    body{
+        background-image: url(https://www.simbolos.com.br/wp-content/uploads/2020/06/sh_bandeira-do-brasil_104281997.jpg?ezimgfmt=rs:680x454/rscb71/ng:webp/ngcb71);
+        color: rgb(43, 99, 255);
+        
+        text-align: center;
+        background-repeat: no-repeat;
+    }
+    body {background-color: rgb(187, 185, 185);}
+    h1   {color: rgb(255, 0, 0);}
+    p    {color: rgb(253, 14, 14);}
